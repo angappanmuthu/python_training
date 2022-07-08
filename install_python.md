@@ -38,7 +38,7 @@ sklearn
 
 ## **Linux or MacOS**
 
-**Using Conda**
+### **Using conda**
 
 ---
 
@@ -61,7 +61,7 @@ conda activate [env_name]
 conda deactivate
 ```
 
-**Using Virtualenv**
+### **Using Virtualenv**
 
 ---
 
@@ -114,7 +114,7 @@ conda activate [env_name]
 conda deactivate
 ```
 
-## **Using virtualenv**
+### **Using virtualenv**
 
 ---
 
