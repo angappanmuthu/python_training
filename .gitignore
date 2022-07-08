@@ -1,0 +1,6 @@
+venv/
+__pychache__/
+sklearn/__pychache__/
+sklearn/model_selection/__pychache__/
+
+
