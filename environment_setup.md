@@ -85,11 +85,16 @@ deactivate
 
 ## **Windows**
 
-- start -> cmd ->
+- `start` > `cmd` + `Administration Permission` > type
 
 ```bash
-  pip install virtualenv
+Set-ExecutionPolicy Unrestricted
+```
 
+- `start` > `cmd` >
+
+```bash
+pip install virtualenv
 ```
 
 ### **Using conda**
