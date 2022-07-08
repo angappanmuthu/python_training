@@ -44,19 +44,22 @@ sklearn
 
 - Creating Virtual Environment
 
-        ```bash
-        conda create --name [env_name] python=3.6
-        python3 -m venv [env_name]
-
-        ```
+```bash
+conda create --name [env_name] python=3.6
+python3 -m venv [env_name]
+```
 
 - Activating Environment
 
-        conda activate [env_name]
+```bash
+conda activate [env_name]
+```
 
 - Deactivate Environment
 
-        conda deactivate
+```bash
+conda deactivate
+```
 
 **Using Virtualenv**
 
@@ -64,15 +67,21 @@ sklearn
 
 - Creating Virtual Environment
 
-        virtualenv --python=python3.8 [env_name]
+```bash
+virtualenv --python=python3.8 [env_name]
+```
 
 - Activating Environment
 
-        source [env_path]/bin/activate
+```bash
+source [env_path]/bin/activate
+```
 
 - Deactivate Environment
 
-        deactivate
+```bash
+deactivate
+```
 
 ## **Windows**
 
