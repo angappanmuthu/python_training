@@ -85,7 +85,12 @@ deactivate
 
 ## **Windows**
 
-- start -> cmd -> `pip install virtualenv`
+- start -> cmd ->
+
+```bash
+  pip install virtualenv
+
+```
 
 ### **Using conda**
 
@@ -93,15 +98,21 @@ deactivate
 
 **Creating Virtual Environment**
 
-        conda create --name [env_name] python=3.6
+```bash
+conda create --name [env_name] python=3.6
+```
 
 **Acitivating Environment**
 
-        conda activate [env_name]
+```bash
+conda activate [env_name]
+```
 
 **Deactivating Enironment**
 
-        conda deactivate
+```bash
+conda deactivate
+```
 
 ## **Using virtualenv**
 
@@ -109,14 +120,18 @@ deactivate
 
 **Creating Virtual Environment**
 
-        virtualenv --python=python3.8 [env_name]
+```bash
+virtualenv --python=python3.8 [env_name]
+```
 
 **Acitivating Environment**
 
-        .\[env_name]\Script\Activate.ps1
+```bash
+.\[env_name]\Script\Activate.ps1
+```
 
 **Deactivating Enironment**
 
-        deactivate
-
-#
+```bash
+deactivate
+```
