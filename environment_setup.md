@@ -85,13 +85,13 @@ deactivate
 
 ## **Windows**
 
-- `start` > `cmd` + `Administration Permission` > type
+`start` >> `cmd` + `Administration Permission` >> type
 
 ```bash
 Set-ExecutionPolicy Unrestricted
 ```
 
-- `start` > `cmd` >
+`start` >> `cmd` >> type
 
 ```bash
 pip install virtualenv
