@@ -85,7 +85,7 @@ deactivate
 
 ## **Windows**
 
-`start` >> `cmd` + `Administration Permission` >> type
+`start` >> `cmd` >> `right click` + `Administration Permission` >> type
 
 ```bash
 Set-ExecutionPolicy Unrestricted
